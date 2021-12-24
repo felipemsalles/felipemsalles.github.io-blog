@@ -1,0 +1,84 @@
+# main links
+main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://blogfelipe.com/about
+  - title: "Recent Posts"
+    url: https://blogfelipe.com/
+  # - title: "Contact Me"
+  #   url: https://blogfelipe.com/contact
+  - title: "All Articles"
+    url: https://blogfelipe.com/all-articles
+
+posts:
+  - title: Reverse Engineering and Binary Exploitation 
+    children:
+      - title: "Reverse Engineering"
+        url: https://blogfelipe.com/binary%20exploitation/intro-to-reverse-engineering/
+      - title: "Patching Binaries"
+        url: https://blogfelipe.com/binary%20exploitation/intro-to-binary-patching/
+      - title: "Buffer Overflow"
+        url: https://blogfelipe.com/binary%20exploitation/buffer-overflow/
+      - title: "Buffer Overread"
+        url: https://blogfelipe.com/binary%20exploitation/buffer-overread/
+      - title: "Format String Vulnerabilities"
+        url: https://blogfelipe.com/binary%20exploitation/format-string-vulnerabilities/
+      - title: "Data Execution Prevention"
+        url: https://blogfelipe.com/binary%20exploitation/data-execution-prevention/
+      - title: "Attacking Dynamic Linking"
+        url: https://blogfelipe.com/binary%20exploitation/attacking-dynamic-linking/
+      - title: "Protecting Binaries"
+        url: https://blogfelipe.com/binary%20exploitation/protecting-binaries/
+
+  - title: Server-Side Request Forgery
+    children:
+      - title: "Intro"
+        url: https://blogfelipe.com/ssrf/intro-to-ssrf/
+      - title: "Exploitation"
+        url: https://blogfelipe.com/ssrf/exploiting-ssrf/
+      - title: "Protection Bypass"
+        url: https://blogfelipe.com/ssrf/bypassing-ssrf-protection/
+      - title: "Real-life SSRFs"
+        url: https://blogfelipe.com/ssrf/ssrf-in-the-wild/    
+  
+  - title: Bash Scripting
+    children:
+      - title: "Intro"
+        url: https://blogfelipe.com/bash%20scripting/bash-intro/
+      - title: "Variables And Conditionals"
+        url: https://blogfelipe.com/bash%20scripting/bash-variables-conditionals/
+      - title: "Test And Loops"
+        url: https://blogfelipe.com/bash%20scripting/bash-tests-loops/
+      - title: "Functions"
+        url: https://blogfelipe.com/bash%20scripting/bash-functions/
+      - title: "Additional Tips"
+        url: https://blogfelipe.com/bash%20scripting/bash-tips/
+
+  - title: Info Leak
+    children:
+      - title: "Intro to IDORs"
+        url: https://blogfelipe.com/info%20leak/intro-to-idor/
+      - title: "Find more IDORs"
+        url: https://blogfelipe.com/info%20leak/find-more-idors/
+
+  - title: Insecure Deserialization
+    children:
+      - title: "Java Deserialization"
+        url: https://blogfelipe.com/insecure%20deserialization/java-deserialization/
+      - title: "PHP Deserialization"
+        url: https://blogfelipe.com/insecure%20deserialization/exploiting-php-deserialization/
+      - title: "Real-life Deserialization"
+        url: https://blogfelipe.com/insecure%20deserialization/deserialization-in-the-wild/
+      - title: "Intro to unserialize()"
+        url: https://blogfelipe.com/insecure%20deserialization/unserialize/
+      - title: "PHP Pop Chains"
+        url: https://blogfelipe.com/insecure%20deserialization/pop-chains/
+      - title: "PHP unserialize() Escalation"
+        url: https://blogfelipe.com/insecure%20deserialization/unserialize-exploits/
+      - title: "PHP Type Juggling"
+        url: https://blogfelipe.com/insecure%20deserialization/php-type-juggling/
+      - title: "PHP Magic Methods"
+        url: https://blogfelipe.com/insecure%20deserialization/magic-methods/
+      - title: "PHP Phar Deserialization"
+        url: https://blogfelipe.com/insecure%20deserialization/php-phar/
