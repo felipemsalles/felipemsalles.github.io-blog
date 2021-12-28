@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Felipe Salles Security Blog"
+title                    : "Felipe Salles's Security Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Felipe Salles Security Blog"
-description              : "Felipe Salles Security Blog."
+name                     : "Felipe Salles's Security Blog"
+description              : "Felipe Salles's Security Blog."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Felipe Salles"
-  avatar           : "/assets/images/profile_pic.png"
+  avatar           : "/assets/images/profile_pic.jpeg"
   bio              : "Hii. I'm a undergrad computer science focusing on Security. Welcome to my blog!"
   # location         : "Somewhere"
   email            :
