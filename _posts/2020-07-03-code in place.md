@@ -4,6 +4,7 @@ categories:
   - Experiences
 ---
 It was amazing to had the opportunity to be part of Code in Place!
+
 ## 1-Introduction
 
 I definitely need to start this article talking a little bit about why I decided to take Code in Place and then I will explain the experience that I had doing this amazing course.
