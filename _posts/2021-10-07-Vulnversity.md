@@ -38,7 +38,11 @@ Answer: 3.5.12
 
 Well, let’s see!
 
-Run: nmap -p-400< ip address>
+Run:
+
+```bash
+nmap -p-400< ip address>
+```
 
 ![](https://blogfelipe.com/assets/images/vulnversity-04.png)
 
@@ -54,7 +58,12 @@ Answer: DNS.
 
 ![](https://blogfelipe.com/assets/images/vulnversity-06.png)
 
-Run: nmap -sV < ip>
+Run: 
+
+```bash
+nmap -sV <ip>
+```
+
 You will see that Ubuntu is running on the machine.
 
 Answer: Ubuntu
@@ -72,19 +81,31 @@ Answer: 3333
 GoBuster is another useful tool for professionals and students. GoBuster is used to brute-force URIs, DNS subdomains, and also virtual host names. VulnUniversity will focus on using it to brute-force directories.
 First, let’s install it.
 
-Run: sudo apt-get install gobuster
+Run: 
+
+```bash
+sudo apt-get install gobuster
+```
 
 ![](https://blogfelipe.com/assets/images/vulnversity-08.png)
 
 Now, we will run GoBuster with a wordlist.
 
-Run: gobuster dir -u http://10.10.86.194:3333 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt | tee gobuster.log
+Run: 
+
+```bash
+gobuster dir -u http://10.10.86.194:3333 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt | tee gobuster.log
+```
 
 You will find /uploads (forms) at /internal/
 
 ![](https://blogfelipe.com/assets/images/vulnversity-09.png)
 
-Answer: /internal/
+Answer: 
+
+```bash
+/internal/
+```
 
 ### Task 4: Compromise the webserver
 
