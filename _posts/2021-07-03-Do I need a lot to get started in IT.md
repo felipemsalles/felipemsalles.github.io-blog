@@ -1,5 +1,5 @@
 ---
-title: "Do I need a lot to get started in IT?"
+title: "Do you need a lot to get started in IT?"
 categories:
   - Opinions
 ---
