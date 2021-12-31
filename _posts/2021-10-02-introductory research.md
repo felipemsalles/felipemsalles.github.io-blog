@@ -124,28 +124,37 @@ Search about some flags of SCP using “man” or search on the internet about i
 
 [here](https://stackabuse.com/copying-a-directory-with-scp/)
 
+```bash
 -r
+```
 
 2- fdisk is a command used to view and alter the partitioning scheme used on your hard drive.What switch would you use to list the current partitions?
 
 Run “man fdisk”. You will find the answer. Also, you can google about fdisk flags.
 
+```bash
 -l
+```
 
 3-nano is an easy-to-use text editor for Linux. There are arguably better editors (Vim, being the obvious choice); however, nano is a great one to start with.What switch would you use to make a backup when opening a file with nano?
 
 Run “man nano”. You will find all the options for nano and the answer.
 
+```bash
 -B
+```
 
 4- Netcat is a basic tool used to manually send and receive network requests. What command would you use to start netcat in listen mode, using port 12345?
 
 Run “man netcat” and understand the format of netcat.
 
+```bash
 nc -l -p port [-options] [hostname] [port]
+```
 
+```bash
 nc -l -p 12345
-
+```
 
 ### Task 5: Final Thoughts
 

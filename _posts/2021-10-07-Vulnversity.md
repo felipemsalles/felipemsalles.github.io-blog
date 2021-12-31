@@ -41,7 +41,7 @@ Well, let’s see!
 Run:
 
 ```bash
-nmap -p-400< ip address>
+nmap -p-400<ip address>
 ```
 
 ![](https://blogfelipe.com/assets/images/vulnversity-04.png)
