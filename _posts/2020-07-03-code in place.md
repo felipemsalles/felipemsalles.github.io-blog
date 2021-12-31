@@ -4,14 +4,11 @@ categories:
   - Experiences
 ---
 It was amazing to had the opportunity to be part of Code in Place!
-
 ## 1-Introduction
 
 I definitely need to start this article talking a little bit about why I decided to take Code in Place and then I will explain the experience that I had doing this amazing course.
 
 So, as you know, in 2020 the world has been facing a huge problem due to Coronavirus pandemic. I was at home trying to stay safe, learning new things, being productive, creative and etc. Fortunately, I saw on the internet: “Stanford will offer an online global course about Computer Programming with many volunteers around the world, weekly lectures, and online meetings”. At the same time, I did my application because I was feeling that I did not learn very well many programming topics and I was not comfortable coding.
-
-
 
 ### 2-Application
 
@@ -20,7 +17,6 @@ Learners like me were asked to apply via an application portal answering some qu
 ## 3-Code in Place
 
 Code in Place created an amazing community of students, section leaders, and instructors. The course had four assignments, and a Final Project to use some structures and topics that we have learned. Moreover, they offered a platform on Ed that everyone could use to ask something, help someone, learn something new,  chat, share ideas, share topics, opinions and different ways to solve many problems.
-
 
 ### 4-My Experience
 
