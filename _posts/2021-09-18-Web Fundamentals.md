@@ -192,6 +192,4 @@ curl -X POST –data “flag_please” http://10.10.185.231:8081/ctf/post
 4-What’s the “Set a cookie” flag? Let’s use curl again. So, in your command type:
 curl -v --cookie 'flagpls=flagpls' http://10.10.89.38:8081/ctf/sendcookie
 
-### Conclusion
-
 Thank you!
