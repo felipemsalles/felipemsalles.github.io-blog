@@ -26,8 +26,10 @@ Nevertheless, it is realistic to expect that more crises will appear in the futu
 Further Information:
 
 
-![link1](https://www.youtube.com/watch?v=Z0lmIuimIZA) 
-![link2](https://www.youtube.com/watch?v=47-Mk4X2Z9U)
-![link3](https://www.thebci.org/news/increase-in-cyber-crime-linked-to-covid-19-outbreak.html)
+![](https://www.youtube.com/watch?v=Z0lmIuimIZA) 
+
+![](https://www.youtube.com/watch?v=47-Mk4X2Z9U)
+
+![](https://www.thebci.org/news/increase-in-cyber-crime-linked-to-covid-19-outbreak.html)
 
 Thank you!
