@@ -32,9 +32,9 @@ Task 16-&&
 
 Task 17-&
 
-Task 19-|
+Task 19- |
 
-Task 20-;
+Task 20- ;
 
 Task 22-Intro
 
@@ -66,7 +66,7 @@ As we saw in the task, we have to use the echo command to return something (hell
 
 ![](https://blogfelipe.com/assets/images/learnlinux-03.png)
 
-### Task 7: LS
+### Task 7: ls
 
 The “ls” command is really important and is often used in Linux. In this task, we will have to answer two questions, let’s go!
 
@@ -77,7 +77,7 @@ In the second question, we have to think a little bit more, as it has not been e
 ![](https://blogfelipe.com/assets/images/learnlinux-04.png)
 
 
-## Task 8: CAT
+## Task 8: cat
 
 For this task, we only have to answer one question. Let’s do it!
 
