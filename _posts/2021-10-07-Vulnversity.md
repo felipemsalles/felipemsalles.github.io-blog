@@ -142,7 +142,13 @@ Answer: Bill
 
 5-What is the user flag?
 
-Run cat /home/bill/user.txt and you are able to see the flag.
+Run:
+
+```bash
+cat /home/bill/user.txt
+```
+
+Now, you are able to see the flag!
 
 Answer: 8bd7992fbe8a6ad22a63361004cfcedb
 
@@ -150,7 +156,11 @@ Answer: 8bd7992fbe8a6ad22a63361004cfcedb
 
 1-On the system, search for all SUID files. What file stands out?
 
-Run: find / -perm -u=s -type f 2>/dev/null
+Run: 
+
+```bash
+find / -perm -u=s -type f 2>/dev/null
+```
 
 Answer: /bin/systemctl
 
