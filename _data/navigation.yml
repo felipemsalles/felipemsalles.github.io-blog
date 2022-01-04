@@ -12,73 +12,28 @@ main:
     url: https://blogfelipe.com/all-articles
 
 posts:
-  - title: Reverse Engineering and Binary Exploitation 
+  - title: Web Security and Bug Bounty 
     children:
-      - title: "Reverse Engineering"
-        url: https://blogfelipe.com/
-      - title: "Patching Binaries"
-        url: https://blogfelipe.com/
-      - title: "Buffer Overflow"
-        url: https://blogfelipe.com/
-      - title: "Buffer Overread"
-        url: https://blogfelipe.com/
-      - title: "Format String Vulnerabilities"
-        url: https://blogfelipe.com/
-      - title: "Data Execution Prevention"
-        url: https://blogfelipe.com/
-      - title: "Attacking Dynamic Linking"
-        url: https://blogfelipe.com/
-      - title: "Protecting Binaries"
+      - title: "Edit"
         url: https://blogfelipe.com/
 
-  - title: Server-Side Request Forgery
+  - title: Offensive Security
     children:
-      - title: "Intro"
-        url: https://blogfelipe.com/
-      - title: "Exploitation"
-        url: https://blogfelipe.com/
-      - title: "Protection Bypass"
-        url: https://blogfelipe.com/
-      - title: "Real-life SSRFs"
-        url: https://blogfelipe.com/  
-  
-  - title: Bash Scripting
-    children:
-      - title: "Intro"
-        url: https://blogfelipe.com/
-      - title: "Variables And Conditionals"
-        url: https://blogfelipe.com/
-      - title: "Test And Loops"
-        url: https://blogfelipe.com/
-      - title: "Functions"
-        url: https://blogfelipe.com/
-      - title: "Additional Tips"
+      - title: "Edit"
         url: https://blogfelipe.com/
 
-  - title: Info Leak
+  - title: Reverse Engineering and Binary Exploitation
     children:
-      - title: "Intro to IDORs"
-        url: https://blogfelipe.com/
-      - title: "Find more IDORs"
+      - title: "Edit"
         url: https://blogfelipe.com/
 
-  - title: Insecure Deserialization
+  - title: App Security and Cloud Security
     children:
-      - title: "Java Deserialization"
+      - title: "Edit"
         url: https://blogfelipe.com/
-      - title: "PHP Deserialization"
+
+  - title: Cryptography
+    children:
+      - title: "Edit"
         url: https://blogfelipe.com/
-      - title: "Real-life Deserialization"
-        url: https://blogfelipe.com/
-      - title: "Intro to unserialize()"
-        url: https://blogfelipe.com/
-      - title: "PHP Pop Chains"
-        url: https://blogfelipe.com/
-      - title: "PHP unserialize() Escalation"
-        url: https://blogfelipe.com/
-      - title: "PHP Type Juggling"
-        url: https://blogfelipe.com/
-      - title: "PHP Magic Methods"
-        url: https://blogfelipe.com/
-      - title: "PHP Phar Deserialization"
-        url: https://blogfelipe.com/
+
