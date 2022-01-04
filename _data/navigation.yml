@@ -15,25 +15,25 @@ posts:
   - title: Web Security and Bug Bounty 
     children:
       - title: "Edit"
-        url: https://blogfelipe.com/web%20security%20and%20bug%20bounty/Edit/
+        url: https://blogfelipe.com/web%20security%20and%20bug%20bounty/Edit-Web-Security-and-Bug-Bounty/
 
   - title: Offensive Security
     children:
       - title: "Edit"
-        url: https://blogfelipe.com/
+        url: https://blogfelipe.com/offensive%20security/Edit-Offensive-Security/
 
   - title: Reverse Engineering and Binary Exploitation
     children:
       - title: "Edit"
-        url: https://blogfelipe.com/
+        url: https://blogfelipe.com/reverse%20engineering%20and%20binary%20exploitation/Edit-Re-and-binary-exploitation/
 
   - title: App Security and Cloud Security
     children:
       - title: "Edit"
-        url: https://blogfelipe.com/
+        url: https://blogfelipe.com/app%20security%20and%20cloud%20security/Edit-App-Security-and-Cloud-Security/
 
   - title: Cryptography
     children:
       - title: "Edit"
-        url: https://blogfelipe.com/
+        url: https://blogfelipe.com/cryptography/Edit-Cryptography/
 
