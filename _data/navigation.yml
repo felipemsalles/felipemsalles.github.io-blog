@@ -15,7 +15,7 @@ posts:
   - title: Web Security and Bug Bounty 
     children:
       - title: "Edit"
-        url: https://blogfelipe.com/
+        url: https://blogfelipe.com/web%20security%20and%20bug%20bounty/Edit/
 
   - title: Offensive Security
     children:

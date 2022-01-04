@@ -1,7 +1,7 @@
 ---
-title: "Edit"
+title: "Edit App Security and Cloud Security"
 categories:
-  - Web Security and Bug Bounty
+  - App Security and Cloud Security
 ---
 
 Edit
