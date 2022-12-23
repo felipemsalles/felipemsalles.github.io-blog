@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Felipe Salles"
-  avatar           : "/assets/images/profile-pic.JPG"
+  avatar           : "/assets/images/profile-pic.jpg"
   bio              : "Hii. I'm a undergrad Computer Science student focusing on Cyber Security. Welcome to my blog!"
   # location         : "Somewhere"
   email            :
