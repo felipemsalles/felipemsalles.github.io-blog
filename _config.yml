@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Felipe Salles"
-  avatar           : "/assets/images/profile_pic.jpeg"
-  bio              : "Hii. I'm a undergrad computer science focusing on Security. Welcome to my blog!"
+  avatar           : "/assets/images/profileblog-pic.jpg"
+  bio              : "Hii. I'm a undergrad Computer Science student focusing on Cyber Security. Welcome to my blog!"
   # location         : "Somewhere"
   email            :
   links:
     - label: "YouTube"
       icon: "fab fa-youtube"
-      # url: "https://www.youtube.com/channel/UCz2v7BrS78_g2SbA57kSdWg"
+      # url: "https://www.youtube.com/@felipetalksyt"
     - label: "Medium"
       icon: "fab fa-medium"
       url: "https://medium.com/@felipe-salles"
