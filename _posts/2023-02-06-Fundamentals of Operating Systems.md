@@ -1,5 +1,5 @@
 ---
-title: "Edit Fundamentals"
+title: "Fundamentals of Operating Systems"
 categories:
   - Fundamentals
 ---

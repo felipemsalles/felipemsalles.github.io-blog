@@ -1,7 +1,7 @@
 ---
-title: "Edit Offensive Security"
+title: "Data Structures - Stack"
 categories:
-  - Offensive Security
+  - Programming
 ---
 
 Edit

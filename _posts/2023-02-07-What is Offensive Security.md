@@ -1,7 +1,7 @@
 ---
-title: "Edit Reverse Engineering and Binary Exploitation"
+title: "What is Offensive Security?"
 categories:
-  - Reverse Engineering and Binary Exploitation
+  - Offensive Security
 ---
 
 Edit

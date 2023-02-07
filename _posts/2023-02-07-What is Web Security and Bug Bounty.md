@@ -1,7 +1,7 @@
 ---
-title: "Edit App Security and Cloud Security"
+title: "What is Web Security and Bug Bounty?"
 categories:
-  - App Security and Cloud Security
+  - Web Security and Bug Bounty
 ---
 
 Edit
