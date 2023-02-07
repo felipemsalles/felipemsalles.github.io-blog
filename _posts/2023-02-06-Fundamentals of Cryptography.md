@@ -1,5 +1,5 @@
 ---
-title: "Cryptography Fundamentals"
+title: "Fundamentals of Cryptography"
 categories:
   - Fundamentals
 ---

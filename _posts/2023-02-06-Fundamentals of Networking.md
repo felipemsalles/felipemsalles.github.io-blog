@@ -1,5 +1,5 @@
 ---
-title: "Networking Fundamentals"
+title: "Fundamentals of Networking"
 categories:
   - Fundamentals
 ---
