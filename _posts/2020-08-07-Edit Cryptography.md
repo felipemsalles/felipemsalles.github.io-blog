@@ -1,7 +1,7 @@
 ---
-title: "Edit Cryptography"
+title: "Edit Fundamentals"
 categories:
-  - Cryptography
+  - Fundamentals
 ---
 
 Edit
