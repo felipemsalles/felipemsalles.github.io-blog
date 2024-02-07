@@ -34,6 +34,6 @@ posts:
 
   - title: Research
     children:
-      - title: "Secflow"
-        url: https://blogfelipe.com/fundamentals/Edit-Fundamentals/
+      - title: "Secflow: Unsupervised learning for analysis and detection of anomalies in Computer Networks"
+        url: https://blogfelipe.com/research/Secflow-Unsupervised-learning-for-analysis-and-detection-of-anomalies-in-Computer-Networks/
 
