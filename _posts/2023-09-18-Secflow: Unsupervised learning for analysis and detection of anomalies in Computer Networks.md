@@ -8,8 +8,9 @@ categories:
 
 This article was presented and published in the Extended Proceedings of the Brazilian Symposium on Information Security and Computational Systems (SBSeg23). The first author, Felipe Salles, won the award for the best scientific initiation presentation at the congress. 
 
-Article link: [Link] (https://sol.sbc.org.br/index.php/sbseg_estendido/article/view/27297)
-DOI link: [Link](https://doi.org/10.5753/sbseg_estendido.2023.233829)
+-Article link: [Link] (https://sol.sbc.org.br/index.php/sbseg_estendido/article/view/27297)
+
+-DOI link: [Link](https://doi.org/10.5753/sbseg_estendido.2023.233829)
 
 ## Abstract
 
