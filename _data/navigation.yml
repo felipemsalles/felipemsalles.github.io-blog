@@ -32,8 +32,8 @@ posts:
       - title: "Edit"
         url: https://blogfelipe.com/app%20security%20and%20cloud%20security/Edit-App-Security-and-Cloud-Security/
 
-  - title: Fundamentals
+  - title: Research
     children:
-      - title: "Edit"
+      - title: "Secflow"
         url: https://blogfelipe.com/fundamentals/Edit-Fundamentals/
 
